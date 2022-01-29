@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙖𝙨𝙚 𝙗𝙤𝙩
 <!---
 RiskiRj/RiskiRj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your change
-   ! 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙖𝙨𝙚 𝙗𝙤𝙩! 
+You can click the Preview link to take a look at your change 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙖𝙨𝙚 𝙗𝙤𝙩! 
 
