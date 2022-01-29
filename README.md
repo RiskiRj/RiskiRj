@@ -7,10 +7,7 @@
 <!---
 RiskiRj/RiskiRj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-riski:Ganzbot base builder
+  
 
-√thanks to
-_Allah SWT 
-_Riski Creator
+   ! 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙖𝙨𝙚 𝙗𝙤𝙩! 
 
