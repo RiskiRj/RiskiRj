@@ -6,8 +6,6 @@
 
 <!---
 RiskiRj/RiskiRj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-  
-
+You can click the Preview link to take a look at your change
    ! 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙖𝙨𝙚 𝙗𝙤𝙩! 
 
