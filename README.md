@@ -19,6 +19,6 @@
 
 - 🤝 I just copy paste
 
-- 📫 How to reach me  [`Whatsapp`](https://wa.me/6288292024190?text=halo+bang)
+- 📫 How to reach me  [`Whatsapp`](https://wa.me/6281339888334?text=halo+bang+riski)
 
 - ⚡ My hobby is watching anime
