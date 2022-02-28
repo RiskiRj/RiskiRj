@@ -23,6 +23,10 @@
 - 📫 How to reach me  [`Whatsapp`](https://wa.me/6281339888334?text=halo+bang+riski)
 
 - ⚡ My hobby is watching anime
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiskiRj)](https://github.com/RiskiRj/github-profile-trophy)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiskiRj&theme=onedark)](https://github.com/RiskiRj/github-profile-trophy)
