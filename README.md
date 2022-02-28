@@ -13,6 +13,7 @@
 
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="40" height="40"/> </a> </p>
@@ -22,3 +23,5 @@
 - 📫 How to reach me  [`Whatsapp`](https://wa.me/6281339888334?text=halo+bang+riski)
 
 - ⚡ My hobby is watching anime
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
