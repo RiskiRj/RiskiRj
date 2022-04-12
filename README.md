@@ -14,7 +14,7 @@ ___
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
- <a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=X - Far Dev&description=Hi, i'm X - Far Dev and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@xfar05_&github=xfar05&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+ <a href="https://github.com/RiskiRj"><img src="https://cardivo.vercel.app/api?name=X - Far Dev&description=Hi, i'm RiskiRj and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@xfar05_&github=xfar05&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/Il3Dpe7nTyZ1X9EneDpXQA)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/xfar05_)
 
