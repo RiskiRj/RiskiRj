@@ -1,32 +1,32 @@
-<p align="center">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF6fyFoGCHmsmOXWjFxIXh-467D1nRhA4mQ&usqp=CAU" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<p align="center">
-<a href="#"><img title="Testbot " src="https://img.shields.io/badge/©CREATOR BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/RiskiRj"><img title="Riski" src="https://img.shields.io/badge/Author-RiskiGanz-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-</p>
+
+## I'm a Riski who enjoys coding 👀
 
 
-</p>
+## My Statistics
+
+|                                                                                                           |                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=RiskiRj&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RiskiRj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) |
+
+|                                                                                                                                                                                                 |                                                                                                                                                                                  
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=RiskiRj&theme=xcode&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="40" height="40"/> </a> </p>
-
-- 🤝 I just copy paste
-
-- 📫 How to reach me  [`Whatsapp`](https://wa.me/6281339888334?text=halo+bang+riski)
-
-- ⚡ My hobby is watching anime
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RiskiRj)](https://github.com/RiskiRj/github-profile-trophy)
+#### 🎓 Learning:
+- Python
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RiskiRj&theme=onedark)](https://github.com/RiskiRj/github-profile-trophy)
+#### 🎓 Languange Used:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ✍ Contact:
+- gmail: RiskiGaming56@gmail.com
+- whatsapp: https://wa.me/6281339888334
