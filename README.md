@@ -11,7 +11,7 @@ ___
 ```
 ```
  <a href="https://github.com/RiskiRj"><img src="https://cardivo.vercel.app/api?name=RiskiRj Dev&description=Hi, i'm RiskiRj and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@RiskiGanz_&github=RiskiRj&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
-[<img src="https://img.shields.io/badge/whastapp-%23E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://instagram.com/RiskiGanz_)
+[<img src="https://api.whatsapp.com/send?phone=6281339888334text=Assalamualaikum+Bang_)
 
 ___
 
