@@ -52,7 +52,7 @@ ___
 </p
   
   
-  https://github-readme-stats.vercel.app/api/top-langs?username=RiskiRj&theme=tokyonight&layout=compact
+  
   
   
 <p align="center">
