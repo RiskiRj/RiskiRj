@@ -66,7 +66,7 @@ ___
     
 <p align="center">
 <a href="RiskiGaming54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=6281339888334&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=6281339888334&text=p+,+banh+sv+no+gw:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
