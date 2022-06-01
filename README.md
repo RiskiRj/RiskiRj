@@ -49,8 +49,12 @@ ___
   
 <p align="center">
   <a href="https://github.com/RiskiRj"><img src="" /></a>
-</p>
+</p
+  
+  
   https://github-readme-stats.vercel.app/api/top-langs?username=RiskiRj&theme=tokyonight&layout=compact
+  
+  
 <p align="center">
   <a href="https://github.com/RiskiRj"><img src="https://github-profile-trophy.vercel.app/?username=RiskiRj&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
