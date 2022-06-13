@@ -49,6 +49,13 @@ ___
   
   
   
+  ## Github Statistik
+
+![Github stat](https://github-readme-stats.vercel.app/api?username=RiskiRj&theme=highcontrast&show_icons=true) 
+
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiskiRj&theme=great-gatsby)
+
+![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
   
   
 <p align="center">
