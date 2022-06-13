@@ -43,7 +43,7 @@ ___
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiskiRj&theme=great-gatsby)
 
-![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
+![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiskiRj&theme=monokai)
   
   
 <p align="center">
