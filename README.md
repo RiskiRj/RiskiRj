@@ -37,9 +37,11 @@ ___
    
  
   
-  ## Github Statistik
+  !RiskiGanz github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
 
-![Github stat](https://github-readme-stats.vercel.app/api?username=RiskiRj&theme=highcontrast&show_icons=true) 
+<details>
+
+<summary>:bar_chart: Recent Anilist Activity</summary>
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiskiRj&theme=great-gatsby)
 
