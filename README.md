@@ -10,7 +10,7 @@
 ___
 ```
 ```
- <a href="https://github.com/RiskiRj"><img src="https://cardivo.vercel.app/api?name=RiskiRj Dev&description=Hi, i'm RiskiRj and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@RiskiGanz_&github=RiskiRj&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/RiskiRj"><img src="https://cardivo.vercel.app/api?name=RiskiRj Dev&description=Hi, i'm RiskiRj and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@RiskiGanz_&github=RiskiRj&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 <a href="https://api.whatsapp.com/send?phone=6281339888334&text=p+,+banh+sv+no+gw:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 ___
