@@ -10,7 +10,7 @@
 ___
 ```
 ```
-𝚆𝙰 𝙼𝙴 :🔽
+𝚆𝙰 𝙼𝙴 :
 <a href="https://api.whatsapp.com/send?phone=6281339888334&text=p+,+banh+sv+no+gw:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 ___
