@@ -24,7 +24,7 @@ ___
 "Name": "RiskiGanz",
 "Status": "Student at SMP MTS",
 "Address": "Flores, Ende, Indonesia",
-"Age": "14 Years Old",
+"Age": "15 Years Old",
 "Birthday": "Augustus - 02, 2007"
    
 "Big Thanks To"
