@@ -22,8 +22,6 @@ ___
 ### [`👇 INTRO MY SELF`]
 ```
 "Name": "RiskiGanz",
-"Status": "Student at SMP MTS",
-"Address": "Flores, Ende, Indonesia",
 "Age": "15 Years Old",
 "Birthday": "Augustus - 02, 2007"
    
